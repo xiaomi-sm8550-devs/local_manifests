@@ -4,6 +4,7 @@
   <remote fetch="https://codeberg.org/" name="cb" revision="lineage-22.1" />
   <!-- Trees -->
   <project name="xiaomi-sm8550-devs/android_device_xiaomi_nuwa" path="device/xiaomi/nuwa" remote="github" revision="lineage-22.1" />
+  <project name="xiaomi-sm8550-devs/android_device_xiaomi_sm8550-common" path="device/xiaomi/sm8550-common" remote="github" revision="lineage-22.1" />
   <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550" path="kernel/xiaomi/sm8550" remote="github" revision="lineage-22.1" />
   <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550-modules" path="kernel/xiaomi/sm8550-modules" remote="github" revision="lineage-22.1" />
   <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550-devicetrees" path="kernel/xiaomi/sm8550-devicetrees" remote="github" revision="lineage-22.1" />
