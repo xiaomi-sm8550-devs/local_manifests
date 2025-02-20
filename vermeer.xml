@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Remotes -->
+  <remote fetch="https://codeberg.org/" name="cb" revision="15" />
+  <!-- Trees -->
+  <project name="xiaomi-sm8550-devs/android_device_xiaomi_vermeer" path="device/xiaomi/vermeer" remote="github" revision="lineage-22.1" />
+  <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550" path="kernel/xiaomi/sm8550" remote="github" revision="vermeer" />
+  <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550-modules" path="kernel/xiaomi/sm8550-modules" remote="github" revision="vermeer" />
+  <project name="xiaomi-sm8550-devs/android_kernel_xiaomi_sm8550-devicetrees" path="kernel/xiaomi/sm8550-devicetrees" remote="github" revision="vermeer" />
+  <project name="Lunark/proprietary_vendor_xiaomi_vermeer" path="vendor/xiaomi/vermeer" remote="cb" revision="15" />
+  <!-- Xiaomi common hardware -->
+  <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" revision="lineage-22.1" />
+</manifest>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
